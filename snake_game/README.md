@@ -1,5 +1,9 @@
 # Snake game.
 
+## authors:
+
+Taylor Paxman
+
 ## Overview
 Snake is a game in which the player seeks to eat food and earn points without running into their growing body.
 
